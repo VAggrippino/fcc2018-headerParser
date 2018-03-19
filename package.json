@@ -4,7 +4,8 @@
   "description": "Header Parser Microservice - freeCodeCamp 2018",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.sh"
   },
   "repository": {
     "type": "git",
